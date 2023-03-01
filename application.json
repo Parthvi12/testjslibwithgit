@@ -13,6 +13,9 @@
   "unpublishedCustomJSLibs": [
     {
       "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
+    },
+    {
+      "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
     }
   ],
   "publishedCustomJSLibs": [],
